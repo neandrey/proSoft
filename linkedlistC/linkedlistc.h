@@ -1,0 +1,4 @@
+#ifndef LINKEDLISTC_H
+#define LINKEDLISTC_H
+
+#endif // LINKEDLISTC_H
